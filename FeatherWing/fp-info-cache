@@ -1,4 +1,4 @@
-14940666300073753
+14942228208900181
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin{space}Battery{space}Holder,{space}BX0036,{space}Battery{space}Type{space}C{space}(http://www.bulgin.com/media/bulgin/data/Battery_holders.pdf)
@@ -42790,6 +42790,13 @@ single{space}digit{space}7{space}segemnt{space}red/green{space}LED
 0
 10
 10
+FeatherShifter
+Jumper2PinTHT
+
+
+0
+2
+2
 Fiducial
 Fiducial_0.5mm_Dia_1mm_Outer
 Circular{space}Fiducial,{space}0.5mm{space}bare{space}copper{space}top;{space}1mm{space}keepout{space}(Level{space}C)
